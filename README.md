@@ -27,7 +27,7 @@ Robert D. Austin and Gary P. Pisano, “Neurodiversity as a Competitive Advantag
 
 Kim Scott, “Radical Candor: How to get what you want by saying what you mean”, 2017. www.radicalcandor.com 
   
-Marshall B. Rosenberg, “Nonviolent Communication: A Language of Life.” 2015.
+Marshall B. Rosenberg, “Nonviolent Communication: A Language of Life.” 2015. http://www.nonviolentcommunication.com/index.htm
 
 Postfacto - online retrospectives tool. www.postfacto.io
 
