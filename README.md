@@ -36,3 +36,5 @@ Postfacto - online retrospectives tool. www.postfacto.io
 Dave Snowden, “The Cynefin Framework.” https://www.youtube.com/watch?v=N7oz366X0-8 
 
 Liz Keogh, “Embracing Uncertainty.” www.lizkeogh.com/embracing-uncertainty 
+
+Gene Kim & Jez Humble, “The DevOps Handbook.” 2016.
