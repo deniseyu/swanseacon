@@ -1,5 +1,5 @@
 # swanseacon
-Referenced materials from talk, "Building Empowered Teams at Scale", at SwanseaCon 2017.
+Referenced and/or supplementary resources from talk, "Building Empowered Teams at Scale", at SwanseaCon 2017.
 
 Pivotal Cloud Foundry. www.pivotal.io/platform
 
